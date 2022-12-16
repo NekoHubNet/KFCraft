@@ -1,2 +1,2 @@
-# TheiCraft
-📦 Recursos necesarios para el servidor TheiCraft v1.19.2
+# KFCraft
+📦 Recursos necesarios para el servidor KFCraft v1.19.2
